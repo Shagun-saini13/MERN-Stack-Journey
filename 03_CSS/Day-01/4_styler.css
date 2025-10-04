@@ -1,0 +1,12 @@
+/* Tag Element Selector */
+h1{
+    background-color: antiquewhite;
+}
+
+/* id base selector, # based selection */
+#veg{
+    background-color: rgb(122, 240, 122);
+}
+#nonveg{
+    background-color: rgb(235, 111, 111);
+}
